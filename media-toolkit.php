@@ -4,7 +4,7 @@
  * Plugin URI:        https://github.com/msow444-ux/media-toolkit
  * Update URI:        https://github.com/msow444-ux/media-toolkit
  * Description:       Zestaw narzędzi do zarządzania obrazami i plikami multimedialnymi w WordPress.
- * Version:           0.1.0
+ * Version:           0.1.1
  * Requires at least: 6.5
  * Requires PHP:      8.0
  * Author:            Marek Sowiński
