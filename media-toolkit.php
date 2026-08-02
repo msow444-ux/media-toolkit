@@ -1,6 +1,6 @@
 <?php
 /**
- * Plugin Name:       Media Toolkit
+ * Plugin Name:       Media Toolkit by MS&AI
  * Plugin URI:        https://github.com/msow444-ux/media-toolkit
  * Description:       Zestaw narzędzi do zarządzania obrazami i plikami multimedialnymi w WordPress.
  * Version:           0.1.0
