@@ -29,3 +29,13 @@ define( 'MEDIA_TOOLKIT_PATH', plugin_dir_path( __FILE__ ) );
  * Adres URL katalogu wtyczki.
  */
 define( 'MEDIA_TOOLKIT_URL', plugin_dir_url( __FILE__ ) );
+/**
+ * Załadowanie głównej klasy wtyczki.
+ */
+require_once MEDIA_TOOLKIT_PATH . 'includes/class-media-toolkit.php';
+
+/**
+ * Uruchomienie wtyczki.
+ */
+$media_toolkit = new Media_Toolkit();
+$media_toolkit->run();
